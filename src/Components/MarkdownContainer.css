@@ -1,0 +1,12 @@
+.container {
+  margin-top: 30px;
+}
+
+.title {
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 5px;
+  color: #fff;
+  background: #2e2e2e;
+  text-align: center;
+}
